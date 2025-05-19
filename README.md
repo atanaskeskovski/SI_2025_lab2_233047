@@ -1,4 +1,5 @@
 Atanas Keskovski 233047
+
 2.одев според кодот по линиите и тие се бројките на јазлите
 
 ![image](https://github.com/user-attachments/assets/6cda3ef2-c04c-4f59-b2dc-570b1ed17b8c)
